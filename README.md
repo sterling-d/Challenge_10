@@ -37,7 +37,7 @@ To test this repo, simply clone the repository and create a new_folder to save y
    jupyter lab 
 ```
 
-Upon launching this repo, you will be able to view the price change percentage of the following cryptocurrencies:
+Upon launching this repo, you will be able to view the price change percentages of the following cryptocurrencies:
 
 
 <img width="1440" alt="Screen Shot 2022-10-16 at 6 15 55 PM" src="https://user-images.githubusercontent.com/105071493/196069676-b58736ea-e65d-458e-acf6-04a1ff910aed.png">
